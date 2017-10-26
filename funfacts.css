@@ -1,0 +1,40 @@
+h1
+{
+	font-family: impact, sans serif;
+	color: purple;
+}
+
+#h02
+{
+	font-family: impact, sans serif;
+	color: purple;
+}
+
+ul
+{
+	color: purple;
+	font-family: verdana, sans serif;
+}
+
+a 
+{
+	font-family: verdana, sans serif;
+}
+
+table, th, td
+{
+	border: 1px solid black;
+}
+
+table
+{
+	color: purple;
+	font-family: verdana, sans serif;
+	border-collapse: collapse;
+}
+
+body
+{
+	background-color: rgb(205, 180, 230);
+	font-size: 18px;
+}

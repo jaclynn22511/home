@@ -1,0 +1,54 @@
+table
+{
+	font-family: verdana, sans serif;
+	color: purple;
+	border-collapse: collapse;
+}
+
+table, th, td
+{
+	border: 1px solid black;
+}
+
+#t01
+{
+	font-family: verdana, sans serif;
+	color: purple;
+	border-collapse: collapse;
+	font-size: 20px;
+}
+
+p
+{
+	font-family: verdana, sans serif;
+	color: purple;
+}
+
+h1
+{
+	font-family: impact, sans serif;
+	color: purple;
+}
+
+#h02
+{
+	font-family: impact, sans serif;
+	color: purple;
+}
+
+a 
+{
+	font-family: verdana, sans serif;
+}
+
+body
+{
+	background-color: rgb(205, 180, 230);
+	font-size: 18px;
+}
+
+img
+{
+	display: block;
+	margin: auto;
+}
