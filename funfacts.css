@@ -33,7 +33,7 @@ table
 	border-collapse: collapse;
 }
 
-body
+body /*Get the rgb values for the background*/
 {
 	background-color: rgb(205, 180, 230);
 	font-size: 18px;
