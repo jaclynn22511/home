@@ -33,7 +33,7 @@ body
 	font-size: 18px;
 }
 
-a /*This makes the links underlined*/
+a /*Make the links underlined*/
 {
 	text-decoration: underline;
 	font-family: verdana, sans serif;
