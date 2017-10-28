@@ -10,7 +10,7 @@ table, th, td
 	border: 1px solid black;
 }
 
-#t01
+#t01 /*Change the font size to something bigger*/
 {
 	font-family: verdana, sans serif;
 	color: purple;
